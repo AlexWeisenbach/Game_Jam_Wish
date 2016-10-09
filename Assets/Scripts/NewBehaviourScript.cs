@@ -38,13 +38,5 @@ public class NewBehaviourScript : MonoBehaviour {
 		}
 	}
 
-    void OnTriggerEnter2D(Collider2D coll)
-    {
-
-    }
-
-    void OnTriggerExit2D(Collider2D coll)
-    {
-
-    }
+   
 }

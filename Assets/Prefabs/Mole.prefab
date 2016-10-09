@@ -112,7 +112,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ecefe2e4af892f64b98793d60a856fbd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  offset: 0
 --- !u!114 &114000012993047014
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -124,7 +123,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceac83de2ebd0c24c87772c87b058e8a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mole: {fileID: 0}
+  offset: 0
 --- !u!212 &212000011436108762
 SpriteRenderer:
   m_ObjectHideFlags: 1

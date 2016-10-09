@@ -2,8 +2,8 @@
 using System.Collections;
 
 public class Detection : MonoBehaviour {
-    public GameObject mole;
-    
+    GameObject mole;
+    public float offset;
 
 	// Use this for initialization
 	void Start () {
@@ -15,5 +15,28 @@ public class Detection : MonoBehaviour {
 	
 	}
 
-   
+    void Awake()
+    {
+         mole = this.transform.parent.gameObject;
+    }
+
+    void OnTriggerEnter2D(Collider2D coll)
+    {
+        if (coll.gameObject.tag == "Player")
+        {
+            
+            mole.transform.Translate(0f, offset, 0f);
+            
+        }
+    }
+
+    void OnTriggerExit2D(Collider2D coll)
+    {
+        if(coll.gameObject.tag == "Player")
+        {
+            mole.transform.Translate(0f, -offset, 0f);
+
+        }
+        
+    }
 }
