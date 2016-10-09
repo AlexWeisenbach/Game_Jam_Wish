@@ -4,138 +4,19 @@ Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
     Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
     Vendor:   NVIDIA
-    VRAM:     1995 MB
+    VRAM:     2018 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\weisea3\Desktop\Game_Jam\Game_Jam_Wish\Wish You Well main\Wish You Well_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\weisea3\Desktop\Game_Jam\Game_Jam_Wish\Wish You Well main\Wish You Well_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\weisea3\Desktop\Game_Jam\Game_Jam_Wish\Wish You Well main\Wish You Well_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\weisea3\Desktop\Game_Jam\Game_Jam_Wish\Wish You Well main\Wish You Well_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\weisea3\Desktop\Game_Jam\Game_Jam_Wish\Wish You Well main\Wish You Well_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\weisea3\Desktop\Game_Jam\Game_Jam_Wish\Wish You Well main\Wish You Well_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\weisea3\Desktop\Game_Jam\Game_Jam_Wish\Wish You Well main\Wish You Well_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\weisea3\Desktop\Game_Jam\Game_Jam_Wish\Wish You Well main\Wish You Well_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.146 seconds
-Platform assembly: C:\Users\weisea3\Desktop\Game_Jam\Game_Jam_Wish\Wish You Well main\Wish You Well_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\weisea3\Desktop\Game_Jam\Game_Jam_Wish\Wish You Well main\Wish You Well_Data\Managed\System.dll (this message is harmless)
-desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+Platform assembly: C:\Users\gabri\Documents\Game_Jam_Wish\Wish You Well main\Wish You Well_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\gabri\Documents\Game_Jam_Wish\Wish You Well main\Wish You Well_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\gabri\Documents\Game_Jam_Wish\Wish You Well main\Wish You Well_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\gabri\Documents\Game_Jam_Wish\Wish You Well main\Wish You Well_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\gabri\Documents\Game_Jam_Wish\Wish You Well main\Wish You Well_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\gabri\Documents\Game_Jam_Wish\Wish You Well main\Wish You Well_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\gabri\Documents\Game_Jam_Wish\Wish You Well main\Wish You Well_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\gabri\Documents\Game_Jam_Wish\Wish You Well main\Wish You Well_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.048 seconds
+Platform assembly: C:\Users\gabri\Documents\Game_Jam_Wish\Wish You Well main\Wish You Well_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\gabri\Documents\Game_Jam_Wish\Wish You Well main\Wish You Well_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
-<RI> Initialized touch support.
-UnloadTime: 0.705973 ms
-Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.305777 ms
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 402)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 402)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 402)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 402)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 402)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 402)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 402)
-
-
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 500.
-Total: 0.180937 ms (FindLiveObjects: 0.027654 ms CreateObjectMapping: 0.023703 ms MarkObjects: 0.117333 ms  DeleteObjects: 0.011061 ms)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.264589 ms
-
-Unloading 64 unused Assets to reduce memory usage. Loaded Objects now: 167.
-Total: 0.479998 ms (FindLiveObjects: 0.017777 ms CreateObjectMapping: 0.018567 ms MarkObjects: 0.078617 ms  DeleteObjects: 0.363850 ms)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.259159 ms
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 402)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 402)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 402)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 402)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 402)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 402)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 402)
-
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 500.
-Total: 0.134715 ms (FindLiveObjects: 0.019753 ms CreateObjectMapping: 0.016987 ms MarkObjects: 0.088098 ms  DeleteObjects: 0.009086 ms)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.943010 ms
-
-Unloading 64 unused Assets to reduce memory usage. Loaded Objects now: 167.
-Total: 0.752985 ms (FindLiveObjects: 0.026074 ms CreateObjectMapping: 0.029234 ms MarkObjects: 0.125234 ms  DeleteObjects: 0.571652 ms)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.335011 ms
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 402)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 402)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 402)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 402)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 402)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 402)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 402)
-
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 500.
-Total: 0.147357 ms (FindLiveObjects: 0.020543 ms CreateObjectMapping: 0.018962 ms MarkObjects: 0.095999 ms  DeleteObjects: 0.010271 ms)
-
-Setting up 2 worker threads for Enlighten.
-  Thread -> id: 130c -> priority: 1 
-  Thread -> id: 3fc8 -> priority: 1 
