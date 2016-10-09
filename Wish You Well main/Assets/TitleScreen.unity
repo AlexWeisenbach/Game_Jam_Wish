@@ -100,6 +100,7 @@ GameObject:
   - 4: {fileID: 117323362}
   - 212: {fileID: 117323361}
   - 61: {fileID: 117323360}
+  - 114: {fileID: 117323363}
   m_Layer: 0
   m_Name: Button
   m_TagString: Untagged
@@ -167,6 +168,17 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 3
+--- !u!114 &117323363
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 117323359}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 742cdc57c119870439edcfac796c5842, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &952227082
 GameObject:
   m_ObjectHideFlags: 0

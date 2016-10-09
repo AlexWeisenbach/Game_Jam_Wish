@@ -1,12 +1,15 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 public class Game_manager : MonoBehaviour {
 
 	// Use this for initialization
-	int state;
+	public int state;
+	int coinsSaved;
 	void Start () {
-		state = 0;
+		state = 1;
+		coinsSaved = 0;
 	}
 	
 	// Update is called once per frame
@@ -21,6 +24,12 @@ public class Game_manager : MonoBehaviour {
 	}
 	void GameOver()
 	{
-		print("Wish unfulfilled");
+		//print("Wish unfulfilled");
+		SceneManager.LoadScene(2);
+	}
+
+	void SaveCoin()
+	{
+		coinsSaved++;
 	}
 }
