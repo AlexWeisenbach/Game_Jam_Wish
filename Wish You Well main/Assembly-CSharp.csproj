@@ -50,6 +50,8 @@
      <Compile Include="Assets\Game_manager.cs" />
      <Compile Include="Assets\NewBehaviourScript.cs" />
      <Compile Include="Assets\Player.cs" />
+     <Compile Include="Assets\Prefabs\Detection.cs" />
+     <Compile Include="Assets\Prefabs\Mole.cs" />
      <Compile Include="Assets\Scripts\Fly.cs" />
      <Compile Include="Assets\Scripts\Worm.cs" />
      <Compile Include="Assets\Start_Game.cs" />
